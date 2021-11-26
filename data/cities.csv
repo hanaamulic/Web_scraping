@@ -1,21 +1,21 @@
-City,Country,Population,Country_code,CityCountry,name,iso_country,gps_code
-Istanbul,Turkey,15462452,TR,"Istanbul, TR",İstanbul Airport,TR,LTFM
-Moscow,Russian Federation (the),12195221,RU,"Moscow, RU",Domodedovo International Airport,RU,UUDD
-London,United Kingdom of Great Britain and Northern Ireland (the),9126366,GB,"London, GB",London Luton Airport,GB,EGGW
-Saint Petersburg,Russian Federation (the),5383890,RU,"Saint Petersburg, RU",Pulkovo Airport,RU,ULLI
-Berlin,Germany,3748148,DE,"Berlin, DE",Berlin Brandenburg Airport,DE,EDDB
-Madrid,Spain,3223334,ES,"Madrid, ES",Adolfo Suárez Madrid–Barajas Airport,ES,LEMD
-Kyiv,Ukraine,2950800,UA,"Kyiv, UA",Boryspil International Airport,UA,UKBB
-Rome,Italy,2844750,IT,"Rome, IT",Rome–Fiumicino Leonardo da Vinci International Airport,IT,LIRF
-Bucharest,Romania,2155240,RO,"Bucharest, RO",Henri Coandă International Airport,RO,LROP
-Paris,France,2140526,FR,"Paris, FR",Paris-Orly Airport,FR,LFPO
-Minsk,Belarus,1982444,BY,"Minsk, BY",Minsk National Airport,BY,UMMS
-Vienna,Austria,1921153,AT,"Vienna, AT",Vienna International Airport,AT,LOWW
-Hamburg,Germany,1899160,DE,"Hamburg, DE",Hamburg Helmut Schmidt Airport,DE,EDDH
-Warsaw,Poland,1793579,PL,"Warsaw, PL",Warsaw Chopin Airport,PL,EPWA
-Budapest,Hungary,1768073,HU,"Budapest, HU",Budapest Liszt Ferenc International Airport,HU,LHBP
-Barcelona,Spain,1636762,ES,"Barcelona, ES",Josep Tarradellas Barcelona-El Prat Airport,ES,LEBL
-Munich,Germany,1488202,DE,"Munich, DE",Munich Airport,DE,EDDM
-Kharkiv,Ukraine,1451132,UA,"Kharkiv, UA",Kharkiv International Airport,UA,UKHH
-Milan,Italy,1404239,IT,"Milan, IT",Malpensa International Airport,IT,LIMC
-Belgrade,Serbia,1344844,RS,"Belgrade, RS",Belgrade Nikola Tesla Airport,RS,LYBE
+City,Country,Population,Country_code,CityCountry,Airport_name,icao
+Istanbul,Turkey,15462452,TR,"Istanbul, TR",İstanbul Airport,LTFM
+Moscow,Russian Federation (the),12195221,RU,"Moscow, RU",Domodedovo International Airport,UUDD
+London,United Kingdom of Great Britain and Northern Ireland (the),9126366,GB,"London, GB",London Luton Airport,EGGW
+Saint Petersburg,Russian Federation (the),5383890,RU,"Saint Petersburg, RU",Pulkovo Airport,ULLI
+Berlin,Germany,3748148,DE,"Berlin, DE",Berlin Brandenburg Airport,EDDB
+Madrid,Spain,3223334,ES,"Madrid, ES",Adolfo Suárez Madrid–Barajas Airport,LEMD
+Kyiv,Ukraine,2950800,UA,"Kyiv, UA",Boryspil International Airport,UKBB
+Rome,Italy,2844750,IT,"Rome, IT",Rome–Fiumicino Leonardo da Vinci International Airport,LIRF
+Bucharest,Romania,2155240,RO,"Bucharest, RO",Henri Coandă International Airport,LROP
+Paris,France,2140526,FR,"Paris, FR",Paris-Orly Airport,LFPO
+Minsk,Belarus,1982444,BY,"Minsk, BY",Minsk National Airport,UMMS
+Vienna,Austria,1921153,AT,"Vienna, AT",Vienna International Airport,LOWW
+Hamburg,Germany,1899160,DE,"Hamburg, DE",Hamburg Helmut Schmidt Airport,EDDH
+Warsaw,Poland,1793579,PL,"Warsaw, PL",Warsaw Chopin Airport,EPWA
+Budapest,Hungary,1768073,HU,"Budapest, HU",Budapest Liszt Ferenc International Airport,LHBP
+Barcelona,Spain,1636762,ES,"Barcelona, ES",Josep Tarradellas Barcelona-El Prat Airport,LEBL
+Munich,Germany,1488202,DE,"Munich, DE",Munich Airport,EDDM
+Kharkiv,Ukraine,1451132,UA,"Kharkiv, UA",Kharkiv International Airport,UKHH
+Milan,Italy,1404239,IT,"Milan, IT",Malpensa International Airport,LIMC
+Belgrade,Serbia,1344844,RS,"Belgrade, RS",Belgrade Nikola Tesla Airport,LYBE
