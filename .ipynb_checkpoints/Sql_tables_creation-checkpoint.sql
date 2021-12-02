@@ -1,4 +1,4 @@
--- DROP DATABASE gans;
+DROP DATABASE gans;
 
 CREATE DATABASE gans;
 
